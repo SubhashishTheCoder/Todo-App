@@ -2,3 +2,4 @@ Clean
 Bin
 Wash the pants
 Pay the rent
+Adding A New Todo From Gui
